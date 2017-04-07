@@ -1,0 +1,7 @@
+
+Diamante em Java
+
+O problema do diamante com Java diz respeito a um comportamento que os arquitetos da linguagem não permitiram que 
+fosse herdado de C++, pois dava muito problema: A herança múltipla. Em Java só é possível herdar de uma classe apenas.
+Há uma forma de superar essa falta de multiplos pais em Java que é utilizando interfaces. Em java é possível implementar varias 
+interfaces. Com isso esse problema é amenizado e podemos desfrutar do mesmo comportamento ou quase, da herança multipla.
