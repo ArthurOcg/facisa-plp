@@ -3,3 +3,5 @@ object HelloWorld {
     println("Hello, world!")
   }
 }
+
+A linguagem Scala é totalmente orientada a objetos e é uma linguagem hibrida, que nem Java, usa até a JVM.
